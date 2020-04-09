@@ -4,7 +4,7 @@ layout: post
 title: Nuevo Calendario Marvel
 subtitle: Por concecuencias del COVID-19 la industria del cine se ve afectada.
 description: >-
-  El UCM cambia toda su programaacion por culpa del COVID-19.
+  El UCM cambia toda su programacion por culpa del COVID-19.
 image: https://www.universomarvel.com/wp-content/uploads/2014/08/marvel-logo.jpg
 optimized_image: ![Marvel](https://www.universomarvel.com/wp-content/uploads/2014/08/marvel-logo.jpg=300x)
 category: Malrvel, Noticias, UCM
