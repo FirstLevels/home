@@ -1,0 +1,21 @@
+name: Firts Levels
+title: Firts Levels
+description: Blog donde hablaremos de Cine, Series, Comics y Videojuegos.
+tags:
+  - Cine
+  - Series
+  - Videojuegos
+  - Noticias
+  - Blog
+email: firstlevels.blog@gmail.com
+disqus_username: disqus_firstlevels
+show_hero: true
+menu:
+  - title: Home
+    url: index.html
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+  - title:
+    url:
