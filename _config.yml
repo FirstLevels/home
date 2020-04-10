@@ -1,7 +1,7 @@
 # Site Settings
 name: Firts Levels
 title: Firts Levels
-description: Blog donde hablaremos de Cine, Series, Comics y Videojuegos.
+description: Firts Levels es un blog donde hablaremos de Cine, Series, Comics y Videojuegos.
 tags:
   - Cine
   - Series
@@ -26,7 +26,7 @@ menu:
 # Remove the item if you don't need it
 facebook_username: First-Levels-Blog-110374670628757
 twitter_username: firstlevels1
-instagram_username: instagram_username
+instagram_username: first_levels/
 
 
 # Posts Settings

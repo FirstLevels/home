@@ -7,7 +7,7 @@ description: >-
   El UCM cambia toda su programacion por culpa del COVID-19.
 image: https://www.universomarvel.com/wp-content/uploads/2014/08/marvel-logo.jpg
 optimized_image: ![Marvel](https://www.universomarvel.com/wp-content/uploads/2014/08/marvel-logo.jpg=300x)
-category: Malrvel, Noticias, UCM
+category: malrvel, noticias, ucm
 tags:
   - Marvel
   - Noticias
