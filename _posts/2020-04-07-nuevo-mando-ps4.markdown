@@ -18,7 +18,7 @@ paginate: true
 
 # El nuevo DUALSENSE de PS5
 
-Aunque lo único que había dicho PlayStation, tiempo atrás, era que la nueva PS5 saldría a fin de año, en las épocas de las fiestas, aun todos desuncíamos su diseño final.
+Aunque lo único que había dicho PlayStation, tiempo atrás, era que la nueva PS5 saldría a fin de año, en las épocas de las fiestas, aun todos desconocíamos su diseño final.
 Hasta que en el día de hoy pudimos conocer, por lo menos, gracias a sus redes sociales y a su página, el diseño del nuevo mando. Este ha cambiado de nombre y ahora se lo conoce como DualSense.
 
 ![mando_2](https://live.staticflickr.com/65535/49747503557_fa12f113db_h.jpg)
