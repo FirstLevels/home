@@ -38,8 +38,8 @@ two_columns_layout: false
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+url: "https://firstlevels.netlify.com/" # the base hostname & protocol for your site
+google_analytics: "UA-163379608-1"
 language: "es"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
