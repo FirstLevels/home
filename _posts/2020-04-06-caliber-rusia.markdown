@@ -4,7 +4,7 @@ layout: post
 title: Caliber nuevo Shooter F2P
 subtitle: La desarrolladora bielorrusa abre los servidores de este nuevo juego Free to Play.
 description: >-
-  A continuacion esplicaremos como poder conseguir este nuevo shooter de forma gratuita y legal.
+  A continuacion explicaremos como poder conseguir este nuevo shooter de forma gratuita y legal.
 image: https://cdn-wglc.gcdn.co/uploads/public/layouts/2019_08_12__06_38_24_Caliber/variative_content/EN/introscreenimg/elements/bg/1449140/introscreenbg.png
 optimized_image: ![Caliber](https://cdn-wglc.gcdn.co/uploads/public/layouts/2019_08_12__06_38_24_Caliber/variative_content/EN/introscreenimg/elements/bg/1449140/introscreenbg.png=300x)
 category: caliber, noticias, games
